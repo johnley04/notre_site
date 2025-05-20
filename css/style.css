@@ -88,7 +88,17 @@ div.btn-header{
     justify-content: end;
 }
 
+.btn{
+    color: black;
+    background-color: #f6d238;
+    border: 2px solid #f6d238;
+    padding: 15px 30px;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+     box-shadow:  5px 5px 30px rgba(0, 0, 0, 1);
 
+}
 
 .btn:hover{
     background-color: white;
